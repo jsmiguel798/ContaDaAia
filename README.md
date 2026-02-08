@@ -20,5 +20,6 @@ Desenvolvido por:
 - José Miguel dos Santos Lima — 2023106410016
 - Maria Sofia Barbosa da Silva — 20231064010014
 - Suzanne Mayse Martiliano de Araújo — 20231064010021
+  
 Trabalho acadêmico escolar.
 
